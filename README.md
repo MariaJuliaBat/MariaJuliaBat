@@ -2,7 +2,7 @@
 
 ###
 
-<img align="right" height="116" src="https://imgs.search.brave.com/kOC8MjC31c1WJiNyVZVAYxqOR8pJrFXWscv86RupLdY/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tZWRp/YS50ZW5vci5jb20v/emw2RXpHUkRzTDhB/QUFBTS9jb3dib3kt/YmVib3AtZWQuZ2lm.gif" />
+<img align="right" height="116" src="https://imgs.search.brave.com/kOC8MjC31c1WJiNyVZVAYxqOR8pJrFXWscv86RupLdY/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tZWRp/YS50ZW5vci5jb20v/emw2RXpHUkRzTDhB/QUFBTS9jb3dib3kt/YmVib3AtZWQuZ2lm" />
 
 ###
 
@@ -37,7 +37,7 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MariaJuliaBat&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=MariaJuliaBat&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" alt="stats graph" />
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MariaJuliaBat&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MariaJuliaBat&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" alt="languages graph" />
 </div>
