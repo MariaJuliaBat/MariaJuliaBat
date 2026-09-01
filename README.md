@@ -1,17 +1,17 @@
-<h2 align="left"> Hi there, I'm Maju! (≧◡≦) ♡</h2>
+<table width="100%" style="border: none; background: transparent;">
+  <tr>
+    <td width="70%" style="border: none; vertical-align: middle;">
+      <h2> Hi there, I'm Maju! (≧◡≦) ♡</h2>
+      <p><b>Full Stack Developer 💻 | Brazil</b><br>
+      <i> (｡･ω･｡)ﾉ♡</i></p>
+    </td>
+    <td width="30%" align="center" style="border: none; vertical-align: middle;">
+      <img src="https://media.tenor.com/zl6EzGRDsL8AAAAi/cowboy-bebop-ed.gif" width="140" alt="Ed Cowboy Bebop" />
+    </td>
+  </tr>
+</table>
 
-###
-
-<div style="display: flex; align-items: center; justify-content: space-between;">
-  <div>
-    <h2>✨ Hi there, I'm Maju! (≧◡≦) ♡</h2>
-    <p><b>Full Stack Developer 💻 | Brazil 🇧🇷</b><br>
-    <i>Making cool things with code (｡･ω･｡)ﾉ♡</i></p>
-  </div>
-  <div>
-    <img src="https://media1.tenor.com/m/zl6EzGRDsL8AAAAC/cowboy-bebop-ed.gif" width="130" alt="Ed Cowboy Bebop" />
-  </div>
-</div>
+---
 
 ### Linguagens & Tecnologias (｡•̀ᴗ-❛)✧
 
