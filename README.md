@@ -1,12 +1,12 @@
 <table width="100%" style="border: none; background: transparent;">
   <tr>
     <td width="70%" style="border: none; vertical-align: middle;">
-      <h2>✨ Hi there, I'm Maju! (≧◡≦) ♡</h2>
-      <p><b>Full Stack Developer 💻 | Brazil</b><br>
+      <h2> Hi there, I'm Maju! (≧◡≦) ♡</h2>
+      <p><b>Full Stack Developer 💻 | Brazil 🇧🇷</b><br>
       <i>(｡･ω･｡)ﾉ♡</i></p>
     </td>
     <td width="30%" align="center" style="border: none; vertical-align: middle;">
-      <img src="https://raw.githubusercontent.com/Tarikul-Islam/Animated-Cursors/main/Cursor/Cowboy%20Bebop%20Ed/Cowboy%20Bebop%20Ed.gif" width="130" alt="Ed Cowboy Bebop" />
+      <img src="./ed.gif" width="140" alt="Ed Cowboy Bebop" />
     </td>
   </tr>
 </table>
