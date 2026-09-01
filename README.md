@@ -1,12 +1,12 @@
 <table width="100%" style="border: none; background: transparent;">
   <tr>
     <td width="70%" style="border: none; vertical-align: middle;">
-      <h2> Hi there, I'm Maju! (≧◡≦) ♡</h2>
+      <h2>✨ Hi there, I'm Maju! (≧◡≦) ♡</h2>
       <p><b>Full Stack Developer 💻 | Brazil</b><br>
-      <i> (｡･ω･｡)ﾉ♡</i></p>
+      <i>(｡･ω･｡)ﾉ♡</i></p>
     </td>
     <td width="30%" align="center" style="border: none; vertical-align: middle;">
-      <img src="https://media.tenor.com/zl6EzGRDsL8AAAAi/cowboy-bebop-ed.gif" width="140" alt="Ed Cowboy Bebop" />
+      <img src="https://raw.githubusercontent.com/Tarikul-Islam/Animated-Cursors/main/Cursor/Cowboy%20Bebop%20Ed/Cowboy%20Bebop%20Ed.gif" width="130" alt="Ed Cowboy Bebop" />
     </td>
   </tr>
 </table>
@@ -52,7 +52,7 @@
 
 <div align="center">
   <br>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Comfortaa&size=16&duration=3000&pause=1000&color=ba68c8&center=true&vCenter=true&width=450&height=50&lines=✨+Welcome+to+my+profile!+(๑˃̵ᴗ˂̵)و;+Thanks+for+stopping+by!+(｡♥‿♥｡)" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Comfortaa&size=16&duration=3000&pause=1000&color=ba68c8&center=true&vCenter=true&width=450&height=50&lines=✨+Welcome+to+my+profile!+(๑˃̵ᴗ˂̵)و;+(｡♥‿♥｡)" alt="Typing SVG" />
   <br><br>
   <p align="center">
     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=14,15,30&height=120&section=footer&reversal=true&animation=fadeIn" width="100%" />
