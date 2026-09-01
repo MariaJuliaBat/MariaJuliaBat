@@ -2,12 +2,16 @@
 
 ###
 
-<img align="right" height="130" src="https://media.tenor.com/zl6EzGRDsL8AAAAi/cowboy-bebop-ed.gif" />
-
-> **Full Stack Developer 💻 | Brazil 🇧🇷**
-> *Making cool things with code (｡･ω･｡)ﾉ♡*
-
----
+<div style="display: flex; align-items: center; justify-content: space-between;">
+  <div>
+    <h2>✨ Hi there, I'm Maju! (≧◡≦) ♡</h2>
+    <p><b>Full Stack Developer 💻 | Brazil 🇧🇷</b><br>
+    <i>Making cool things with code (｡･ω･｡)ﾉ♡</i></p>
+  </div>
+  <div>
+    <img src="https://media1.tenor.com/m/zl6EzGRDsL8AAAAC/cowboy-bebop-ed.gif" width="130" alt="Ed Cowboy Bebop" />
+  </div>
+</div>
 
 ### Linguagens & Tecnologias (｡•̀ᴗ-❛)✧
 
