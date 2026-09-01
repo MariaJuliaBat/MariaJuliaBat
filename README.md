@@ -40,6 +40,13 @@
 
 ###
 
+### 💻 Linguagens e Tecnologias Mais Usadas
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MariaJuliaBat&theme=dracula" alt="GitHub Profile Summary Cards" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MariaJuliaBat&layout=compact&langs_count=6&theme=dracula&hide_border=true&card_width=400" alt="Top Langs" />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=MariaJuliaBat&color=ff79c6&style=flat-square&label=VISITAS+NO+PERFIL" alt="Profile Views" />
 </div>
