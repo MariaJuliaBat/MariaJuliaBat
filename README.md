@@ -19,7 +19,7 @@
 - 🚀 Formada em **Desenvolvimento Web Full-Stack** pela **Programadores do Amanhã** (720h — JavaScript, Node.js, Express, MySQL, React)
 - 🛠️ Na Escola de Governo do DF, criei o **[Automacao-EGOV](https://github.com/MariaJuliaBat/Automacao-EGOV)**, ferramenta em Python que automatiza a conferência de inscrições e sincroniza com o Google Sheets
 - 🛰️ Programei em C++/Arduino um picossatélite no projeto **Ideia Space** (apoio da AEB, lançamento na Índia)
-- 🤝 No projeto final do M4 (PdA), desenvolvi em squad de 7 pessoas uma API de campanhas de doação com Node.js, Prisma, PostgreSQL e testes com Jest
+- 🤝 No [projeto final do M4](https://github.com/MariaJuliaBat/Plataforma-Solidaria-API) (PdA), desenvolvi em squad de 7 pessoas uma API de campanhas de doação com Node.js, Prisma, PostgreSQL e testes com Jest
 - 🌱 Interesses: tecnologia na educação, automação e IA
 - 💬 Idiomas: Português (nativo), Inglês e Francês (intermediário), Japonês (básico)
 
@@ -71,7 +71,7 @@
 ### 📫 Contato
 
 <div align="left">
-<a href="https://www.linkedin.com/in/maria-j%C3%BAlia-batista/" target="_blank">
+<a href="https://www.linkedin.com/in/maria-julia-batista/" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="mailto:juliabatista.tec@gmail.com" target="_blank">
