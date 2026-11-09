@@ -60,8 +60,10 @@
 ### 📊 Estatísticas
 
 <div align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=MariaJuliaBat&show_icons=true&hide_border=true&title_color=ba68c8&icon_color=ba68c8&locale=pt-br" alt="Estatísticas do GitHub" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MariaJuliaBat&layout=compact&hide_border=true&title_color=ba68c8&locale=pt-br" alt="Linguagens mais usadas" />
+<img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MariaJuliaBat&theme=default" alt="Estatísticas do GitHub" />
+<img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MariaJuliaBat&theme=default" alt="Linguagens mais usadas" />
+<br>
+<img src="https://streak-stats.demolab.com?user=MariaJuliaBat&hide_border=true&locale=pt_BR&ring=BA68C8&fire=BA68C8&currStreakLabel=BA68C8" alt="Sequência de contribuições" />
 </div>
 
 ---
