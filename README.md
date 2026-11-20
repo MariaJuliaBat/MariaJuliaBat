@@ -11,6 +11,11 @@
 </tr>
 </table>
 
+<p align="center">
+  <a href="https://mariajuliabatista.vercel.app/"><img src="https://img.shields.io/badge/PORTF%C3%93LIO-mariajuliabatista.vercel.app-BA68C8?style=for-the-badge&logo=vercel&logoColor=white" alt="Meu portfólio" /></a>
+</p>
+
+
 ---
 
 ### (｡•̀ᴗ-❛)✧ Sobre mim
@@ -71,6 +76,9 @@
 ### 📫 Contato
 
 <div align="left">
+<a href="https://mariajuliabatista.vercel.app/" target="_blank">
+<img src="https://img.shields.io/badge/Portf%C3%B3lio-BA68C8?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
 <a href="https://www.linkedin.com/in/maria-julia-batista/" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
