@@ -22,6 +22,7 @@
 
 - 🎓 Estudante de **Computação (Licenciatura)** na **Universidade de Brasília (UnB)**
 - 🚀 Formada em **Desenvolvimento Web Full-Stack** pela **Programadores do Amanhã** (720h — JavaScript, Node.js, Express, MySQL, React)
+- 🤖 Cursando **Especialização em Inteligência Artificial** pela **Programadores do Amanhã** (set/2026 – dez/2026)
 - 🛠️ Na Escola de Governo do DF, criei o **[Automacao-EGOV](https://github.com/MariaJuliaBat/Automacao-EGOV)**, ferramenta em Python que automatiza a conferência de inscrições e sincroniza com o Google Sheets
 - 🛰️ Programei em C++/Arduino um picossatélite no projeto **Ideia Space** (apoio da AEB, lançamento na Índia)
 - 🤝 No [projeto final do M4](https://github.com/MariaJuliaBat/Plataforma-Solidaria-API) (PdA), desenvolvi em squad de 7 pessoas uma API de campanhas de doação com Node.js, Prisma, PostgreSQL e testes com Jest
